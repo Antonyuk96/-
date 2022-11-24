@@ -1,0 +1,16 @@
+C:\Users\NewGamePC\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.GlobalUsings.g.cs
+C:\Users\NewGamePC\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.csproj.AssemblyReference.cache
+C:\Users\NewGamePC\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NewGamePC\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.AssemblyInfoInputs.cache
+C:\Users\NewGamePC\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.AssemblyInfo.cs
+C:\Users\NewGamePC\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.csproj.CoreCompileInputs.cache
+C:\Users\NewGamePC\Desktop\Итоговый проект\bin\Debug\net6.0\Итоговый проект.exe
+C:\Users\NewGamePC\Desktop\Итоговый проект\bin\Debug\net6.0\Итоговый проект.deps.json
+C:\Users\NewGamePC\Desktop\Итоговый проект\bin\Debug\net6.0\Итоговый проект.runtimeconfig.json
+C:\Users\NewGamePC\Desktop\Итоговый проект\bin\Debug\net6.0\Итоговый проект.dll
+C:\Users\NewGamePC\Desktop\Итоговый проект\bin\Debug\net6.0\ref\Итоговый проект.dll
+C:\Users\NewGamePC\Desktop\Итоговый проект\bin\Debug\net6.0\Итоговый проект.pdb
+C:\Users\NewGamePC\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.dll
+C:\Users\NewGamePC\Desktop\Итоговый проект\obj\Debug\net6.0\ref\Итоговый проект.dll
+C:\Users\NewGamePC\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.pdb
+C:\Users\NewGamePC\Desktop\Итоговый проект\obj\Debug\net6.0\Итоговый проект.genruntimeconfig.cache
